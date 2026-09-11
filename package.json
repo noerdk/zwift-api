@@ -1,0 +1,49 @@
+{
+  "name": "zwift-api",
+  "version": "0.3.0",
+  "description": "Unofficial, read-only Node client and data model for Zwift's undocumented API: auth, profile, achievements, events, quests, and the public game catalogue. Zero dependencies.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./cdn": "./src/cdn.js",
+    "./wire": "./src/wire.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "ENDPOINTS.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "zwift",
+    "cycling",
+    "api-client",
+    "api",
+    "unofficial",
+    "reverse-engineered",
+    "protobuf",
+    "indoor-cycling",
+    "fitness"
+  ],
+  "dependencies": {},
+  "author": "Allan Noer",
+  "homepage": "https://github.com/noerdk/zwift-api#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noerdk/zwift-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noerdk/zwift-api/issues"
+  },
+  "sideEffects": false
+}

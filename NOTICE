@@ -1,0 +1,15 @@
+zwift-api
+Copyright (c) 2026 Allan Noer — MIT License (see LICENSE).
+
+TRADEMARKS AND THIRD-PARTY RIGHTS
+
+The MIT license above covers only the original source code in this repository.
+It grants no rights to the "Zwift" name, logo, or other trademarks, or to any
+Zwift, Inc. software, service, API, data, or assets, all of which remain the
+property of Zwift, Inc.
+
+"Zwift" is used in this project only nominatively, to describe the third-party
+service this software interoperates with. This project is unofficial and is not
+affiliated with, endorsed by, or sponsored by Zwift, Inc. It ships no Zwift code
+or assets; users access their own account data with their own credentials, at
+their own risk, in accordance with Zwift's Terms of Service.
